@@ -27,5 +27,6 @@ forms with.
 
 For more information on how to configure Puppeteer settings, see: [Testing With
 Puppeteer](https://codecept.io/puppeteer)
+
 For advanced CodeceptJS usage, see: [Advanced
 CodeceptJS](https://codecept.io/advanced)
