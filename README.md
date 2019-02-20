@@ -18,7 +18,8 @@ To run unit tests, run the command `pub run test test/unit` and view the
 results. To enable re-running unit tests on code change, run `npm install
 -g watch` to install the watch package. In the terminal, at the root
 directory, run `watch "pub run test test/unit" web test` to re-run the unit 
-tests each time code is changed in the `web` and `test` directories.
+tests each time code is changed in the `web` and `test` directories. You 
+can add any directories you'd like to this list.
 
 To run functional tests, `cd` into the `test` directory and run the command
 `codeceptjs run` to run all functional tests. For CodeceptJS to recognize a
